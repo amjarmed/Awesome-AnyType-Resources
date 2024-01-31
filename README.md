@@ -3,11 +3,13 @@
   <img width="400" src="./resources/anytype-logo.png" alt="logo of vue-awesome repository">
   <br>
   <br>
+<p style="text-align:center; border:1px dotted #333; padding:0.5rem">Meet Anytype: Private, local, p2p computing. Available on Mac, Windows, Linux, Android & iOS</p>
 </p>
 
 
 
 ## Awesome AnyType Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amjarino)
+
 
 > 🎉 A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides, templates, and community-contributed content to enhance your experience with AnyType.
 
@@ -49,6 +51,7 @@
 
 ## ▶ Youtube Tutorials
 
+*[](https://www.youtube.com/@Anytype/videos): 
 * [Getting Started with AnyType](https://www.youtube.com/@pianomacpower): A step-by-step guide for beginners to kickstart their journey with AnyType.
 * [Our Review: Testing the PARA Method in Anytype](https://youtu.be/rgBS46Scw4Q?si=x2O78MTWyLh78epj): Our Review: Testing the PARA Method in Anytype
 * [Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)](https://youtu.be/Ts4PyVZ1R7o?si=Q0UhWjhmRX-Wmdxi): Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)
