@@ -56,6 +56,7 @@
 * [Can this app dethrone Notion? | Anytype First Look](https://youtu.be/xOGjnjL1SLU?si=Kh6QCcFAzSFYvADf)
 * [My beginners look at Anytype (not sponsored)](https://youtu.be/OZsLRcdjOlA?si=hVQoiLqntCk7yGN4)
 * [3 Anytype HACKS You Didn’t Know!](https://youtu.be/Ru5iT8d1aeI?si=PYw6jVffgxasLnkm)
+* [Learning anytype fundamentals](https://youtu.be/-dgOxSBpmfI?si=jtGbw02sEXSFajeR)
 
 ---
 
