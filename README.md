@@ -4,7 +4,7 @@
 
 > A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides, templates, and community-contributed content to enhance your experience with AnyType.
 
-![logo](resources/temp-2.jpeg "Template Example")
+![logo](resources/temp-2.jpeg "AnyType Template")
 
 ## 🧾 Contents
 
@@ -18,6 +18,7 @@
 ---
 
 ## 📝Official Documentation 
+[<img src="resources/anytype-logo.webp" width="50" height="50" style="margin:0 auto">]()
 
 - [Get the App](https://download.anytype.io/)
 - [AnyType Documentation](https://docs.anytype.io/): Explore the official documentation for in-depth information on using AnyType, its features, and best practices.
@@ -33,10 +34,11 @@
 
 ## 💿 Our Repo Tutorials and Resources
 
-[Quick Start with Any type](Tutorial/Quck%20Start.md)
+* [Quick Start with Any type](Tutorial/Quck%20Start.md)
 
-[Comparison AnyType vs Notion Terms and Features](Tutorial/anytype-vs-notion-terms.md)
+* [Comparison AnyType vs Notion Terms and Features](Tutorial/anytype-vs-notion-terms.md)
 
+* [markdown sheat sheet](Tutorial/markdown-sheat-sheet.md)
 
 ## ▶ Youtube Tutorials
 
@@ -96,6 +98,23 @@ Let's build a comprehensive resource hub for the AnyType community together!
 
 ---
 
+## Contributors
 
-                            **🤩Happy organizing with AnyType!**
+A big thank you to the following individuals who have contributed to this project:
+
+[<img src="https://avatars.githubusercontent.com/u/31408563?v=4" width="50" height="50">](https://github.com/amjarino)
+[<img src="https://github.com/janesmith.png" width="50" height="50">](https://github.com/janesmith)
+[<img src="https://github.com/alexjohnson.png" width="50" height="50">](https://github.com/alexjohnson)
+
+---
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+**🤩Happy organizing with AnyType!**
+
+
 ![logo](resources/temp-1.png "Template Example")
