@@ -1,9 +1,12 @@
 # Awesome AnyType Resources
+<!-- ![logo](resources/anytype-logo.webp "Template Example") -->
 
 
-A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides, templates, and community-contributed content to enhance your experience with AnyType.
+> A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides, templates, and community-contributed content to enhance your experience with AnyType.
 
-## Contents
+![logo](resources/temp-2.jpeg "Template Example")
+
+## 🧾 Contents
 
 1. [Official Documentation](#official-documentation)
 2. [Tutorials](#tutorials)
@@ -13,23 +16,46 @@ A curated collection of useful links, tutorials, and resources for the AnyType a
 
 ---
 
-## Official Documentation
+## 📝Official Documentation 
 
+- [Get the App](https://download.anytype.io/)
 - [AnyType Documentation](https://docs.anytype.io/): Explore the official documentation for in-depth information on using AnyType, its features, and best practices.
+- [Blog](https://blog.anytype.io/)
+- [FAQ](https://anytype.io/faq)
+- [join to contribute](https://anytype.io/contributors)
+
+## 📪 Contacts
+
+ [X](https://twitter.com/AnytypeLabs) |  [github](https://github.com/anyproto) |  [telegram](https://t.me/anytype)
 
 ---
 
-## Tutorials
+## ▶ Youtube Tutorials
 
-1. [Getting Started with AnyType](https://example.com/getting-started): A step-by-step guide for beginners to kickstart their journey with AnyType.
-
-2. [Advanced Graph Modeling](https://example.com/advanced-modeling): Learn how to create complex data structures and graphs within AnyType.
-
-3. [Collaboration in AnyType](https://example.com/collaboration-guide): Discover tips and tricks for effective collaboration in AnyType.
+* [Getting Started with AnyType](https://www.youtube.com/@pianomacpower): A step-by-step guide for beginners to kickstart their journey with AnyType.
+* [Our Review: Testing the PARA Method in Anytype](https://youtu.be/rgBS46Scw4Q?si=x2O78MTWyLh78epj): Our Review: Testing the PARA Method in Anytype
+* [Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)](https://youtu.be/Ts4PyVZ1R7o?si=Q0UhWjhmRX-Wmdxi): Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)
+* [Anytype: The Best Offline Alternative to Notion](https://youtu.be/pIWsKwEqG00?si=VmJh_ZXVbSa0L2LN): Anytype: The Best Offline Alternative to Notion
+* [Can this app dethrone Notion? | Anytype First Look](https://youtu.be/xOGjnjL1SLU?si=Kh6QCcFAzSFYvADf):Can this app dethrone Notion? | Anytype First Look
+* 
 
 ---
 
-## Community Templates
+## 📄 Articles  
+
+* [Why Anytype is the Future of Note-Taking
+](https://medium.com/predict/why-anytype-is-the-future-of-note-taking-b75a98688192):Why Anytype is the Future of Note-Taking
+* [Anytype App Review: A Notion Killing Notes App?](https://toolfinder.co/tools/anytype): Anytype App Review: A Notion Killing Notes App?
+* [Anytype: An All-in-One Secure Open-Source App for Work and Productivity](https://news.itsfoss.com/anytype-open-beta/):Anytype: An All-in-One Secure Open-Source App for Work and Productivity
+* [Anytype: Apple Notes on Steroids! | Review](https://shuomi.medium.com/anytype-apple-notes-on-steroids-review-4a7d3b654dbb): Anytype: Apple Notes on Steroids! | Review
+
+
+
+---
+
+## 🖼 Community Templates
+
+ **coming Soon**
 
 Browse and use templates created by the AnyType community to jumpstart your projects and workflows.
 
@@ -39,7 +65,7 @@ Browse and use templates created by the AnyType community to jumpstart your proj
 
 ---
 
-## External Resources
+## 🔗External Resources
 
 Explore resources outside of official channels for additional insights and perspectives.
 
@@ -62,4 +88,6 @@ Let's build a comprehensive resource hub for the AnyType community together!
 
 ---
 
-Happy organizing with AnyType!
+
+                            **🤩Happy organizing with AnyType!**
+![logo](resources/temp-1.png "Template Example")
