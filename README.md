@@ -57,6 +57,7 @@
 * [My beginners look at Anytype (not sponsored)](https://youtu.be/OZsLRcdjOlA?si=hVQoiLqntCk7yGN4)
 * [3 Anytype HACKS You Didn’t Know!](https://youtu.be/Ru5iT8d1aeI?si=PYw6jVffgxasLnkm)
 * [Learning anytype fundamentals](https://youtu.be/-dgOxSBpmfI?si=jtGbw02sEXSFajeR)
+* [Anytype template - Daily Journal Experience (Jan 2024)](https://youtu.be/77KuRt9Z8dY?si=1C4aoH7zPQQPc5xl)
 
 ---
 
