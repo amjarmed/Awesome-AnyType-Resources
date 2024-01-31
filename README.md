@@ -110,7 +110,7 @@ Let's build a comprehensive resource hub for the AnyType community together!
 
 ## Contributors
 
-👏 A big thank you to the following individuals who have contributed to this project:
+👏 A big thank you to the following individuals who have contributed to this Awesome Repo:
 
 [<img src="https://avatars.githubusercontent.com/u/31408563?v=4" width="50" height="50">](https://github.com/amjarino)
 [<img src="https://github.com/janesmith.png" width="50" height="50">](https://github.com/janesmith)
