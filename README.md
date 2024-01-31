@@ -26,7 +26,7 @@
 
 ---
 
-## [<img src="resources/anytype-logo.webp" width="50" height="50" style="margin:0 auto">]() Official Documentation
+## [<img src="resources/anytype-logo.webp" width="50" height="50">]() Official Documentation
 
 - [Get the App](https://download.anytype.io/)
 - [AnyType Documentation](https://docs.anytype.io/): Explore the official documentation for in-depth information on using AnyType, its features, and best practices.
