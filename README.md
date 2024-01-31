@@ -115,7 +115,7 @@ Let's build a comprehensive resource hub for the AnyType community together!
 [<img src="https://github.com/alexjohnson.png" width="50" height="50">](https://github.com/alexjohnson)
 
 ---
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarino)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarmed)
 
 
 ## License
