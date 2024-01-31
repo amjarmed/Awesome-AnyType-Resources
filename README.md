@@ -57,7 +57,9 @@
 * [Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)](https://youtu.be/Ts4PyVZ1R7o?si=Q0UhWjhmRX-Wmdxi): Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)
 * [Anytype: The Best Offline Alternative to Notion](https://youtu.be/pIWsKwEqG00?si=VmJh_ZXVbSa0L2LN): Anytype: The Best Offline Alternative to Notion
 * [Can this app dethrone Notion? | Anytype First Look](https://youtu.be/xOGjnjL1SLU?si=Kh6QCcFAzSFYvADf):Can this app dethrone Notion? | Anytype First Look
-* 
+
+- [My beginners look at Anytype (not sponsored)](https://youtu.be/OZsLRcdjOlA?si=hVQoiLqntCk7yGN4) : My beginners look at Anytype (not sponsored)
+
 
 ---
 
