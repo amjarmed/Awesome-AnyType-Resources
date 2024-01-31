@@ -61,8 +61,14 @@
 - [Anytype template - Daily Journal Experience (Jan 2024)](https://youtu.be/77KuRt9Z8dY?si=1C4aoH7zPQQPc5xl)
 - [Anytype tutorial - Easy Folder Organization (Jan 2024)](https://youtu.be/Ja3Tk4eu048?si=-pRKEsaZabsoIb9j)
 - [Anytype tutorial - How I Use Search, Tags, & Sets](https://youtu.be/Ja3Tk4eu048?si=nY_WeZssg-8JLAIg)
-<!-- - []()
-- []() -->
+- [Sets vs collections inside Anytype](https://youtu.be/9-5JHmxny_Q?si=sECFM6oyJe7ebi4D)
+- [How to make templates in anytype](https://youtu.be/DDXl7rkGxvs?si=CfoSBagZknTs7D5p)
+- [Create databases in anytype](https://youtu.be/UpKEi7ZrH6c?si=EqdR1BAiFvSPZHOr)
+- [My anytype system](https://youtu.be/o1oZw4Nu18E?si=nhsj_jeD_j4SCzXI)
+- [Learn how relations work in Anytype](https://youtu.be/8FdApck0bm0?si=ilwNHx_ulxTmRV9D)
+- [Anytype Analysis: The Pros & Cons + My Experience](https://youtu.be/oA6PAx0pGyw?si=Vl34TMKmOaRzQmv1)
+- [My Simple Productivity System (for normal people)!](https://youtu.be/7M6bIeVbCqA?si=sePoa7oV-gmrhDlK)
+<!-- - []() -->
 
 ---
 
