@@ -43,31 +43,35 @@
 
 ## 💿 Our Repo Tutorials and Resources
 
-* [Quick Start with Any type](Tutorial/Quck%20Start.md)
-* [Comparison AnyType vs Notion Terms and Features](Tutorial/anytype-vs-notion-terms.md)
-* [markdown sheat sheet](Tutorial/markdown-sheat-sheet.md)
+- [Quick Start with Any type](Tutorial/Quck%20Start.md)
+- [Comparison AnyType vs Notion Terms and Features](Tutorial/anytype-vs-notion-terms.md)
+- [markdown sheat sheet](Tutorial/markdown-sheat-sheet.md)
 
 ## ▶ Youtube Tutorials
 
-* [AnyType Ofical Youtube channel](https://www.youtube.com/@Anytype/videos): 
-* [A step-by-step guide for beginners to kickstart their journey with AnyType.](https://www.youtube.com/@pianomacpower)
-* [Our Review: Testing the PARA Method in Anytype](https://youtu.be/rgBS46Scw4Q?si=x2O78MTWyLh78epj)
-* [Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)](https://youtu.be/Ts4PyVZ1R7o?si=Q0UhWjhmRX-Wmdxi)
-* [Anytype: The Best Offline Alternative to Notion](https://youtu.be/pIWsKwEqG00?si=VmJh_ZXVbSa0L2LN)
-* [Can this app dethrone Notion? | Anytype First Look](https://youtu.be/xOGjnjL1SLU?si=Kh6QCcFAzSFYvADf)
-* [My beginners look at Anytype (not sponsored)](https://youtu.be/OZsLRcdjOlA?si=hVQoiLqntCk7yGN4)
-* [3 Anytype HACKS You Didn’t Know!](https://youtu.be/Ru5iT8d1aeI?si=PYw6jVffgxasLnkm)
-* [Learning anytype fundamentals](https://youtu.be/-dgOxSBpmfI?si=jtGbw02sEXSFajeR)
-* [Anytype template - Daily Journal Experience (Jan 2024)](https://youtu.be/77KuRt9Z8dY?si=1C4aoH7zPQQPc5xl)
+- [AnyType Ofical Youtube channel](https://www.youtube.com/@Anytype/videos): 
+- [A step-by-step guide for beginners to kickstart their journey with AnyType.](https://www.youtube.com/@pianomacpower)
+- [Our Review: Testing the PARA Method in Anytype](https://youtu.be/rgBS46Scw4Q?si=x2O78MTWyLh78epj)
+- [Anytype tutorial - Offline Notes Initial Setup +Tips (Jan 2024)](https://youtu.be/Ts4PyVZ1R7o?si=Q0UhWjhmRX-Wmdxi)
+- [Anytype: The Best Offline Alternative to Notion](https://youtu.be/pIWsKwEqG00?si=VmJh_ZXVbSa0L2LN)
+- [Can this app dethrone Notion? | Anytype First Look](https://youtu.be/xOGjnjL1SLU?si=Kh6QCcFAzSFYvADf)
+- [My beginners look at Anytype (not sponsored)](https://youtu.be/OZsLRcdjOlA?si=hVQoiLqntCk7yGN4)
+- [3 Anytype HACKS You Didn’t Know!](https://youtu.be/Ru5iT8d1aeI?si=PYw6jVffgxasLnkm)
+- [Learning anytype fundamentals](https://youtu.be/-dgOxSBpmfI?si=jtGbw02sEXSFajeR)
+- [Anytype template - Daily Journal Experience (Jan 2024)](https://youtu.be/77KuRt9Z8dY?si=1C4aoH7zPQQPc5xl)
+- [Anytype tutorial - Easy Folder Organization (Jan 2024)](https://youtu.be/Ja3Tk4eu048?si=-pRKEsaZabsoIb9j)
+- [Anytype tutorial - How I Use Search, Tags, & Sets](https://youtu.be/Ja3Tk4eu048?si=nY_WeZssg-8JLAIg)
+<!-- - []()
+- []() -->
 
 ---
 
 ## 📄 Articles  
 
-* [Why Anytype is the Future of Note-Taking](https://medium.com/predict/why-anytype-is-the-future-of-note-taking-b75a98688192)
-* [Anytype App Review: A Notion Killing Notes App?](https://toolfinder.co/tools/anytype)
-* [Anytype: An All-in-One Secure Open-Source App for Work and Productivity](https://news.itsfoss.com/anytype-open-beta/)
-* [Anytype: Apple Notes on Steroids! | Review](https://shuomi.medium.com/anytype-apple-notes-on-steroids-review-4a7d3b654dbb): 
+- [Why Anytype is the Future of Note-Taking](https://medium.com/predict/why-anytype-is-the-future-of-note-taking-b75a98688192)
+- [Anytype App Review: A Notion Killing Notes App?](https://toolfinder.co/tools/anytype)
+- [Anytype: An All-in-One Secure Open-Source App for Work and Productivity](https://news.itsfoss.com/anytype-open-beta/)
+- [Anytype: Apple Notes on Steroids! | Review](https://shuomi.medium.com/anytype-apple-notes-on-steroids-review-4a7d3b654dbb): 
 
 
 
