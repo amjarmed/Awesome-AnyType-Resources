@@ -8,11 +8,12 @@
 
 ## 🧾 Contents
 
-1. [Official Documentation](#official-documentation)
-2. [Tutorials](#tutorials)
-3. [Community Templates](#community-templates)
-4. [External Resources](#external-resources)
+1. [Official Documentation](#📝official-documentation)
+2. [Tutorials](#▶-youtube-tutorials)
+3. [Community Templates](#🖼-community-templates)
+4. [External Resources](#🔗external-resources)
 5. [Contribution Guidelines](#contribution-guidelines)
+6. [Our Repo Tutorials and Resources](#💿-our-repo-tutorials-and-resources)
 
 ---
 
@@ -29,6 +30,13 @@
  [X](https://twitter.com/AnytypeLabs) |  [github](https://github.com/anyproto) |  [telegram](https://t.me/anytype)
 
 ---
+
+## 💿 Our Repo Tutorials and Resources
+
+[Quick Start with Any type](Tutorial/Quck%20Start.md)
+
+[Comparison AnyType vs Notion Terms and Features](Tutorial/anytype-vs-notion-terms.md)
+
 
 ## ▶ Youtube Tutorials
 
