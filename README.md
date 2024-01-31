@@ -124,5 +124,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 **🤩Happy organizing with AnyType!**
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarino)
+
 
 ![logo](resources/temp-1.png "Template Example")
