@@ -1,8 +1,15 @@
-# Awesome AnyType Resources
-<!-- ![logo](resources/anytype-logo.webp "Template Example") -->
+<p align="center">
+  <br>
+  <img width="400" src="./resources/anytype.png" alt="logo of vue-awesome repository">
+  <br>
+  <br>
+</p>
 
 
-> A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides, templates, and community-contributed content to enhance your experience with AnyType.
+
+## Awesome AnyType Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/amjarino/awesome)
+
+> 🎉 A curated collection of useful links, tutorials, and resources for the AnyType app – a knowledge management and organization tool. Explore guides, templates, and community-contributed content to enhance your experience with AnyType.
 
 ![logo](resources/temp-2.jpeg "AnyType Template")
 
