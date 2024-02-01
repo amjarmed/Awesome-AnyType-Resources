@@ -99,9 +99,9 @@
 
 ---
 
-## ⚡    Quick equivalents  name
+## ⚡ Equivalents  names
 
-|Anytype name | real means |
+|Anytype names | Sample Names |
 |:-:|:-|
 |`Space` | _Acount:_ [contain graph of objects] |
 |`Object` | _Pages:_ [Pages, Notes, Recipes, Books, Movies, Audio, Humans, everything! ]|
