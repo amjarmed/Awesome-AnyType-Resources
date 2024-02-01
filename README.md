@@ -39,7 +39,7 @@
 
 - **Groups** :
   - Set : filtered by one Object type (notes...)
-  - Colections: organize a variety of different objects types and `store` them in one place.
+  - Collections: organize a variety of different objects types and `store` them in one place.
 
 - **Objects**: page, books, Notes...
 
