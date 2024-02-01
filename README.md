@@ -111,7 +111,7 @@
 |`Templates`|each Type can support multiple Templates [reuse the same structures] |
 |`Relations`| **Defining attribute** :sort and filter [Status: Done/Not Done,] ; **Defining connections:** link one Object to another[add the Relation: Assignee, and assign another Object in your Anytype to this task.], you can view the Assignees as Relations in Set view, or in Graph view.|
 |`Backlinks`|Backlinks and forward links have been implemented as relations|
-|`Library`| a place where you can found types, and relations|
+|`Library`| a place where you can find types, and relations|
 |`Type Library`| used and anytype pages types|
 |`Relation Library`|used and anytype pages Relations|
 |`Links`|Link to another Object Directly  [/ or @] , or external [file:///Users..pdf]|
