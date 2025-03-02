@@ -127,7 +127,7 @@ Relations are key to organizing and connecting your Objects and knowledge in Any
 
 ---
 
-## [<img src="resources/anytype-logo.webp" width="50" height="50">]() Official Documentation
+## [<img src="resources/anytype-logo.webp" width="25" height="25">]() Official Documentation
 
 - [Get the App](https://download.anytype.io/)
 - [AnyType Documentation](https://docs.anytype.io/)
