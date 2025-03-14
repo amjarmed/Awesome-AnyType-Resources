@@ -223,9 +223,8 @@ Let's build a comprehensive resource hub for the AnyType community together!
 
 👏 A big thank you to the following individuals who have contributed to this Awesome Repo:
 
-[<img src="https://avatars.githubusercontent.com/u/31408563?v=4" width="50" height="50">](https://github.com/amjarino)
-[<img src="https://github.com/janesmith.png" width="50" height="50">](https://github.com/janesmith)
-[<img src="https://github.com/alexjohnson.png" width="50" height="50">](https://github.com/alexjohnson)
+[<img src="https://avatars.githubusercontent.com/u/31408563?v=4" width="50" height="50">](https://github.com/amjarmed)
+[<img src="https://avatars.githubusercontent.com/u/1857707?v=4" width="50" height="50">](https://github.com/desyncr)
 
 ---
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amjarmed)
